@@ -16,6 +16,9 @@ public class EjercicioEntornos {
      */
     public static void main(String[] args) {
         System.out.println("Esto es una prueba para el ejercicio");
+        System.out.println("Estoy realizando cambios en el proyecto");
+        System.out.println("Aquí se puede comprobar");
+        System.out.println("Ahora lo subirmos a GitHub");
     }
     
 }
